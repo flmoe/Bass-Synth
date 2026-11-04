@@ -9,7 +9,6 @@
 #define PIN_LCD_DC   10 // teensy optimized ILI9341 lib prefers to use hardware CS control for DC pin
 #define PIN_LCD_RST  1
 #define PIN_LCD_BL   6
-#define PIN_SD_CS    9  // optional SD card on same SPI bus 
 
 // Audio (SAI2)
 #define PIN_I2S2_MCLK  33
